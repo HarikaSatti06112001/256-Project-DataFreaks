@@ -4,9 +4,11 @@ Advance Data Mining Project
 Topic: Privacy-Preserving Social Media Data Publishing for Personalized Ranking-Based Recommendation
 
     By: 
-    Ravi Teja Reddy Dodda (016693196)
-    Tanuja Reddy Maligireddy (016715348)
-    Harika Satti (016260504)
+    
+    Ravi Teja Reddy Dodda 
+    Harika Satti 
+    Tanuja Reddy Maligireddy
+    
 
 #### Setup
     pip install "fastapi[all]"
